@@ -295,19 +295,6 @@ Here is how it worked:
 
 ---
 
-## 📞 Contact
-
-- 🐙 **GitHub:** [heysubu](https://github.com/heysubu)
-- 💼 **LinkedIn:** [Subham Ghadge](https://www.linkedin.com/in/subhamghadge/)
-
----
-
-## ❤️ Support This Work
-
-[![Sponsor](https://img.shields.io/badge/❤️%20Sponsor%20This%20Project-GitHub%20Sponsors-pink?logo=github)](https://github.com/sponsors/heysubu)
-
----
-
 ## 📄 License
 
 MIT License — Free to use, share, and modify.
