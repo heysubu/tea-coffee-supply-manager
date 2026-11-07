@@ -312,3 +312,8 @@ MIT License — Free to use, share, and modify.
 ![Excel](https://img.shields.io/badge/Source-Excel%20xlsm-217346?logo=microsoft-excel)
 ![Users](https://img.shields.io/badge/Users-3%20Role%20Types-blue)
 ![Items](https://img.shields.io/badge/Items-12%20Tracked-brown)
+
+<img width="1280" height="720" alt="master_setup_demo" src="https://github.com/user-attachments/assets/87388809-bb21-44d4-aed7-7b7194f25ea1" />
+<img width="1280" height="720" alt="login_demo" src="https://github.com/user-attachments/assets/b946e341-66d3-4887-a2df-d1d107942a2e" />
+<img width="1280" height="720" alt="filling_demo" src="https://github.com/user-attachments/assets/4a592412-f134-4630-9673-fde1d884c7a0" />
+<img width="1280" height="720" alt="sync_demo" src="https://github.com/user-attachments/assets/45dd55a9-b395-43b7-86eb-d6618e234024" />
